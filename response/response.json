@@ -1,0 +1,46 @@
+[{
+        "id": 1,
+        "title": "Frontend Developer",
+        "url": "/static/images/avatar/1.jpg",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "author": "company Name",
+        "skills": ["html","css"]
+    },
+    {
+        "id": 2,
+        "title": "Backend Developer",
+        "url": "/static/images/avatar/1.jpg",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "author": "company Name",
+        "skills": ["html"]
+    },
+    {
+        "id": 3,
+        "title": "Backend Developer",
+        "url": "/static/images/avatar/1.jpg",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "part_time",
+        "author": "company Name",
+        "skills": ["html"]
+    },
+  {
+    "id": 4,
+    "title": "Backend Developer",
+    "url": "/static/images/avatar/1.jpg",
+    "description": "Comfortable with modern JS stack, experience with React.",
+    "employment_type": "full_time",
+    "author": "company Name",
+    "skills": ["html"]
+  },
+  {
+    "id": 5,
+    "title": "Backend Developer",
+    "url": "/static/images/avatar/1.jpg",
+    "description": "Comfortable with modern JS stack, experience with React.",
+    "employment_type": "part_time",
+    "author": "company Name",
+    "skills": ["html"]
+  }
+]
