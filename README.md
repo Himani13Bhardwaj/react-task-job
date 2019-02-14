@@ -3,7 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### to start the application
+Build the react app: `npm run build`
+then start the server by `node server command`
 ### `npm start`
 
 Runs the app in the development mode.<br>
