@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "title": "Full Stack Developer",
+  "company": "ABC Technology",
+  "experience": "4-10 years",
+  "Location": "India",
+  "skills": ["Python", "React", "Angular", "SQL", "Agile Framework"],
+  "description": "Your job description is the first line of contact with a potential assistant manager. To engage and entice candidates to apply, you must capture their attention—and truly stand out. Give job seekers an idea of what working for your company will be like. What will their main responsibilities be? How will they impact overall success? What qualifications should they bring to the table? If you include plenty of detail and present it in a concise, straightforward way, you’re sure to attract the best and brightest candidates."
+}
